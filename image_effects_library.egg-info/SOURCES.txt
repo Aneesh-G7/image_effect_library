@@ -1,0 +1,10 @@
+README.md
+setup.py
+image_effects/__init__.py
+image_effects/effects.py
+image_effects/main.py
+image_effects_library.egg-info/PKG-INFO
+image_effects_library.egg-info/SOURCES.txt
+image_effects_library.egg-info/dependency_links.txt
+image_effects_library.egg-info/requires.txt
+image_effects_library.egg-info/top_level.txt
